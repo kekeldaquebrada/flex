@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(39, 224, 138);
+    color:aliceblue
+}
+
+
+.Pai {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(90, 16, 228);
+  }
+  
+  .Pai > div {
+    background-color: #ec550f;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
